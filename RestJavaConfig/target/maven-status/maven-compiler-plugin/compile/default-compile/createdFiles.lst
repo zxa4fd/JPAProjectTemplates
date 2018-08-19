@@ -1,0 +1,4 @@
+config\transfer\objects\Book.class
+config\controller\RestController.class
+config\transfer\objects\Person.class
+config\root\services\interfaces\ServiceLayer.class
