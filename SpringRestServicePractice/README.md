@@ -1,0 +1,1 @@
+Just a practice class to check if the Spring Rest Controller works

@@ -1,0 +1,1 @@
+This is a working example of a Spring based REST-ful web service which is integrated with  JPA (Hibernate)
