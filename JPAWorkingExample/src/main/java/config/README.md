@@ -5,7 +5,7 @@
 ### root
 
 - contains the Data Access Layer
-- contains Services Layer
+- contains the Services Layer
 
 ### settings
 
